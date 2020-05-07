@@ -39,3 +39,4 @@ function mouseClicked() {  // マウスがクリックされた時に呼ばれ�
     mySound.play();
   }  
 }
+
